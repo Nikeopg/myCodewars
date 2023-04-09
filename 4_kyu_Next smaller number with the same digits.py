@@ -25,6 +25,7 @@ def next_smaller(n):
     return int(s) if s[0] != "0" else -1
 print(next_smaller(2071))
 
+
 """
 __________________________________________________________________
 4 kyu

@@ -1,10 +1,11 @@
 from math import gcd
 
+
 def solution(a):
     return gcd(*a) * len(a)
 
 
-print(solution([6,9,21]))
+print(solution([6, 9, 21]))
 
 """
 Description

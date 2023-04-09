@@ -9,6 +9,7 @@ def sort_array(seq):
 
     return seq
 
+
 print(sort_array([5, 8, 6, 3, 4]))
 
 # [-39, -33, 27, 41, -20, -20, -14, 43, 47, 16, -24] should equal
