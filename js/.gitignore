@@ -1,0 +1,12 @@
+# Ignore node_modules folder
+/node_modules
+
+# Ignore specific modules
+
+
+# Ignore all modules except a specific module
+!/module-name/
+
+/package-lock.json
+
+/package.json
